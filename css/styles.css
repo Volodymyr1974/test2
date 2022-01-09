@@ -803,7 +803,7 @@
  }
  
  .modal-form__input:focus,
- .feedback-input:focus {
+ .modal-form__feedback:focus {
      border: 1px solid var(--accent-color);
  }
  
